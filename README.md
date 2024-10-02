@@ -4,7 +4,7 @@ Brief Description of Login Page and Profit and Loss Calculator:
 This project encompasses two fundamental applications built in Python: a Login Page and a Profit and Loss Calculator. Each component serves distinct purposes while providing a valuable learning experience in user authentication and financial calculations.
 
 1. Login Page
-   
+
 The Login Page is a simple command-line interface application that allows users to securely log in by entering their username and password. 
 Key features include:
 
